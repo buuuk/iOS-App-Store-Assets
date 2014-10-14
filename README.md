@@ -13,5 +13,7 @@ In the file, you'll see the following pages:
 6. iPhone Icons iOS 5-6
 7. iPad Icons iOS 5-6
 
+For those who get uneasy reading text, here's a screenshot of the file:
+![Screenshot of the iOS Asset template file](iOSAssetsScreenshot.png?raw=true)
 
-ps - the app icon mask is taken from the default Sketch Icon template
+*ps - the app icon mask is taken from the default Sketch Icon template*
