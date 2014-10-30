@@ -1,15 +1,16 @@
 SketchiOSAssets
 ===============
 
-Sketch file with templates for creating assets for the iOS app.
+Sketch file with templates for creating assets for an iOS app.
 
-In the file, you'll see the following pages:
+In the file, you'll see pages to produce the following assets:
 
 1. Splash Screens: slices included to export the correct sizes as well
 2. iTunes Artwork
 3. iPhone Icons iOS 7-8
 4. iPad Icons iOS 7-8
-5. Webclip
+5. Webclip Icons
+6. Extension Icons
 6. iPhone Icons iOS 5-6
 7. iPad Icons iOS 5-6
 
