@@ -1,4 +1,4 @@
-SketchiOSAssets
+SketchiOSAssets by [@isnav](http://www.twitter.com/isnav)
 ===============
 
 Sketch file with templates for creating assets for an iOS app.
